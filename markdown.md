@@ -10,3 +10,13 @@ void main()
 {    
 printf("Hello,Markdown.");    
 }    
+
+*斜体*,_斜体_
+
+ - (+) 第一项 - (+) 第二项 - (+) 第三项
+
+ 1.第一项
+ 2.第二项
+ 3.第三项
+
+[魅理户的虎扑show](http://nba.hupu.com/)。
